@@ -1,6 +1,54 @@
-# Getting Started with Create React App
+# Employee Directory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application will display a list of employees based on sort and filter criteria the user selects.
+
+## Description
+
+Using the [Random User API](https://randomuser.me/) to generate a list of employees that the user can sort and filter depending on criteria they select.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployment](#Deployment)
+- [Functionality](#Functionality)
+- [License](#license)
+- [Questions](#Questions)
+
+## Installation
+
+This application is a react app deployed on [Employee Directory](https://jericfey.github.io/employee-directory/)
+
+## Usage
+
+This app allows the user sort or filter an employee directory based on criteria they have selected.
+
+## Deployment
+
+[Heroku Deployment](https://stormy-cliffs-32348.herokuapp.com/)
+
+![Application Image](../public/images/BidgetTracker.jpg)
+
+## Functionality
+
+#### These are the technologies incorporated into this app:
+
+### React
+
+## License
+
+MIT - A short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source. There are many variations of this license in use.
+
+## Badges
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Questions
+
+If you have any questions about the project:
+https://jericfey.github.io/ResponsivePortfolio/contact.html
+
+---
 
 ## Available Scripts
 
