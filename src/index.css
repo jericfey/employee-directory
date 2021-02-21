@@ -1,13 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Poppins", sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.jumbotron {
+  height: 300px;
+  color: black;
+  background-color: #2cbbd8;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  vertical-align: middle;
+  /* flex-direction: column; */
+  justify-content: center;
+  max-width: 100%; /* allows the jumbotron to adjust on smaller widths */
 }

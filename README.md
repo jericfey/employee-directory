@@ -25,7 +25,7 @@ This app allows the user sort or filter an employee directory based on criteria 
 
 ## Deployment
 
-[Heroku Deployment](https://stormy-cliffs-32348.herokuapp.com/)
+[GitHub Pages](https://jericfey.github.io/employee-directory/)
 
 ![Application Image](../public/images/BidgetTracker.jpg)
 
