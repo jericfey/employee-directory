@@ -57,7 +57,6 @@ class App extends Component {
         <Search />
 
         <Wrapper>
-          {/* Map over this.state.employees and render an EmployeeCard component for each employee object */}
           {this.state.employees.map((employee) => (
             <EmployeeCard
               removeEmployee={this.removeEmployee}
