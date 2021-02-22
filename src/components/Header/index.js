@@ -9,8 +9,8 @@ const Header = ({ title }) => {
       <h1 className="display-4">{title}</h1>
       <div>
         <p className="lead">
-          Click on column heading to sort results or use the sarch box to narrow
-          your results.
+          {/* Click on column heading to sort results or use the sarch box to narrow
+          your results. */}
         </p>
       </div>
     </div>
